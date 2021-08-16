@@ -4,16 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3aff8255-d7d5-4b37-a188-7046efe08374" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/geek-python/Khrapov_Roman_lesson1/examination.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/geek-python/Khrapov_Roman_lesson2/task1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/geek-python/Khrapov_Roman_lesson2/task2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/geek-python/Khrapov_Roman_lesson2/task3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/geek-python/Khrapov_Roman_lesson2/task4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/geek-python/Khrapov_Roman_lesson2/task5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/geek-python/Khrapov_Roman_lesson2/task6.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/geek-python/Khrapov_Roman_lesson1/test.py" beforeDir="false" />
+    <list default="true" id="3aff8255-d7d5-4b37-a188-7046efe08374" name="Changes" comment="Khrapov_Roman_lesson2">
+      <change afterPath="$PROJECT_DIR$/geek-python/Khrapov_Roman_lesson3/task1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/geek-python/Khrapov_Roman_lesson3/task2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/geek-python/Khrapov_Roman_lesson3/task3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/geek-python/Khrapov_Roman_lesson3/task4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/geek-python/Khrapov_Roman_lesson3/task5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/geek-python/Khrapov_Roman_lesson3/task6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/geek-python/Khrapov_Roman_lesson3/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +51,7 @@
       <recent name="$PROJECT_DIR$/geek-python/Khrapov_Roman_lesson1" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.test (1)">
+  <component name="RunManager" selected="Python.test (2)">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="geek-python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -80,12 +80,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="$PROJECT_DIR$/venv/bin/python" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/geek-python/Khrapov_Roman_lesson2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/geek-python/Khrapov_Roman_lesson3" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/geek-python/Khrapov_Roman_lesson2/task3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/geek-python/Khrapov_Roman_lesson3/task3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -101,12 +101,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="$PROJECT_DIR$/venv/bin/python" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/geek-python/Khrapov_Roman_lesson2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/geek-python/Khrapov_Roman_lesson3" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/geek-python/Khrapov_Roman_lesson2/task4.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/geek-python/Khrapov_Roman_lesson3/task4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -122,12 +122,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="$PROJECT_DIR$/venv/bin/python" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/geek-python/Khrapov_Roman_lesson2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/geek-python/Khrapov_Roman_lesson3" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/geek-python/Khrapov_Roman_lesson2/task5.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/geek-python/Khrapov_Roman_lesson3/task5.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -143,12 +143,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="$PROJECT_DIR$/venv/bin/python" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/geek-python/Khrapov_Roman_lesson2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/geek-python/Khrapov_Roman_lesson3" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/geek-python/Khrapov_Roman_lesson2/task6.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/geek-python/Khrapov_Roman_lesson3/task6.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -157,19 +157,19 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="test (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="$PROJECT_DIR$/venv/bin/python" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/geek-python/Khrapov_Roman_lesson2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/geek-python/Khrapov_Roman_lesson3" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/geek-python/Khrapov_Roman_lesson2/test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/geek-python/Khrapov_Roman_lesson3/test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -180,7 +180,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.test (1)" />
+        <item itemvalue="Python.test (2)" />
         <item itemvalue="Python.task6" />
         <item itemvalue="Python.task5" />
         <item itemvalue="Python.task4" />
@@ -197,6 +197,14 @@
       <option name="presentableId" value="Default" />
       <updated>1627972121493</updated>
     </task>
+    <task id="LOCAL-00001" summary="Khrapov_Roman_lesson2">
+      <created>1628582437700</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1628582437700</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -210,5 +218,9 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Khrapov_Roman_lesson2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Khrapov_Roman_lesson2" />
   </component>
 </project>
