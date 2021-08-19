@@ -33,3 +33,4 @@ if __name__ == '__main__':
     # source_list = [2, 2, 2, 7, 23, 1, 44, 44, 3, 2, 10, 7, 4, 11]
 
     print('itertools', list(filterfalse(lambda x: source_list.count(x) > 1, source_list)))
+    print('custom drophile', list(my_filterfalse(lambda x: source_list.count(x) > 1, source_list)))
